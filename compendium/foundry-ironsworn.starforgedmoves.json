@@ -393,7 +393,7 @@
             "weak": "<p>Llegas, pero debes afrontar un coste o complicación. Elige uno.</p><ul><li>Sufre un coste de camino: Haz un movimiento de sufrimiento (-2) o dos movimientos de sufrimiento (-1).</li><li>Afronta una complicación en el destino: Visualiza qué encuentras.</li></ul>"
         },
         "Set a Flag": {
-            "description": "<p><strong>Cuando identificas situaciones o temas que no quieres incluir, no quieres visualizar en detalle o deberían aproximarse con cautela</strong>, el contenido queda limitado.</p><p>Cuando encuentresWhen you encounter content flagged as something to approach mindfully, pause to consider or discuss its role in your story. When you come across flagged content that you would rather adjust or omit, @Compendium[foundry-ironsworn.starforgedmoves.aa6aea2e2f5ce064]{Change Your Fate}.</p>",
+            "description": "<p><strong>Cuando identificas situaciones o temas que no quieres incluir, no quieres visualizar en detalle o deberían aproximarse con cautela</strong>, el contenido queda limitado.</p><p>Cuando encuentresWhen you encounter content flagged as something to approach mindfully, pause to consider or discuss its role in your story. When you come across flagged content that you would rather adjust or omit, @Compendium[foundry-ironsworn.starforgedmoves.aa6aea2e2f5ce064]{Cambiar tu destino}.</p>",
             "name": "Poner un límite",
             "trigger text": "Cuando identificas situaciones o temas que no quieres incluir, no quieres visualizar en detalle o deberían aproximarse con cautela..."
         },
