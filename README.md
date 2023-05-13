@@ -23,7 +23,7 @@ https://raw.githubusercontent.com/erizocosmico/foundry-starforged-es/main/module
 # Contenido traducido
 
 -   [x] Movimientos
--   [ ] Recursos
+-   [x] Recursos
 -   [ ] Oráculos
 -   [ ] Enemigos
 
