@@ -121,7 +121,7 @@
             "weak": "<p>Ganas +2 de impulso.</p>"
         },
         "Earn Experience": {
-            "description": "<p><strong>Cuando llenas una casilla (4 marcas) en un registro de legado ganas 2 puntos de experiencia. Esta experiencia puede ser usada para @Compendium[foundry-ironsworn.starforgedmoves.d602da2ce0c05f2c]{Mejorar}.</p><p>Una vez completas la décima casilla de un registro de legado limpia el registro. Puedes empezar de nuevo a marcar progreso en el registro, pero ganas experiencia a un ritmo reducido de 1 punto de experiencia (en lugar de 2) por cada casilla llena. Si haces una tirada de progreso contra ese registro resuelve el resultado como si el progreso fuese 10.</p>",
+            "description": "<p><strong>Cuando llenas una casilla (4 marcas) en un registro de legado</strong> ganas 2 puntos de experiencia. Esta experiencia puede ser usada para @Compendium[foundry-ironsworn.starforgedmoves.d602da2ce0c05f2c]{Mejorar}.</p><p>Una vez completas la décima casilla de un registro de legado limpia el registro. Puedes empezar de nuevo a marcar progreso en el registro, pero ganas experiencia a un ritmo reducido de 1 punto de experiencia (en lugar de 2) por cada casilla llena. Si haces una tirada de progreso contra ese registro resuelve el resultado como si el progreso fuese 10.</p>",
             "name": "Ganar experiencia",
             "trigger text": "Cuando llenas una casilla (4 marcas) en un registro de legado..."
         },
