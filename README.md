@@ -17,7 +17,7 @@ Puedes instalar este módulo buscando `foundry-starforged-es` en el buscador de 
 Si lo deseas, también puedes instalarlo manualmente usando el siguiente enlace:
 
 ```
-https://raw.githubusercontent.com/erizocosmico/foundry-starforged-es/main/module.json
+https://github.com/erizocosmico/foundry-starforged-es/releases/latest/download/module.json
 ```
 
 # Contenido traducido
