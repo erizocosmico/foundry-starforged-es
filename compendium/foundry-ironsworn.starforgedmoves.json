@@ -55,7 +55,7 @@
         },
         "Change Your Fate": {
             "description": "<p><strong>Cuando encuentras contenido no deseado, descartas un oráculo, te resistes a una consecuencia o necesitas cambiar tus circunstancias dentro del juego para tu comodidad y disfrute</strong> pausa e identifica qué necesita cambiarse. Escoge tantas opciones como sean necesarias.</p><ul><li><strong>Reformula:</strong> Esto no ha pasado de la forma que pensabas inicialmente. Visualiza el momento desde otra perspectiva de forma que disminuya o cambie el contenido.</li><li><strong>Reenfoca:</strong> Esto no es lo más importante sucediendo ahora mismo. Visualiza cómo el foco cambia.</li><li><strong>Reemplaza:</strong> Esto sucede pero con un pequeño ajuste. Cambia un elemento y visualiza cómo este nuevo detalle cambia el escenario.</li><li><strong>Redirigir:</strong> Ajusta la trayectoria para incluir a una mano amiga. Visualiza cómo otra persona o grupo se involucra.</li><li><strong>Remodela:</strong> La situación cambia completamente. Visualiza qué pasó en su lugar.</li></ul>",
-            "name": "Cambiar tu suerte",
+            "name": "Cambiar tu destino",
             "trigger text": "Cuando encuentras contenido no deseado, descartas un oráculo, te resistes a una consecuencia o necesitas cambiar tus circunstancias dentro del juego para tu comodidad y disfrute..."
         },
         "Check Your Gear": {
