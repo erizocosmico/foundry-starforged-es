@@ -361,7 +361,7 @@
                 "Robas o mientes",
                 "Rebuscas o creas"
             ],
-            "trigger text": "When you attempt to bolster your readiness...",
+            "trigger text": "Cuando intentas mejorar tu preparación...",
             "weak": "<p>Primero debes lidiar con un coste, complicación o demanda. Visualiza la naturaleza de este obstáculo.</p><p>Luego elige uno.</p><ul><li>Si no estás preparado borra el impacto y ganas +1 de suministros. En cualquier otro caso ganas +2 de suministros.</li><li>Si necesitas un recurso u objeto específico que puede ser obtenido razonablemente lo adquieres. Ganas +1 de impulso.</li></ul>"
         },
         "Sacrifice Resources": {
@@ -393,7 +393,7 @@
             "weak": "<p>Llegas, pero debes afrontar un coste o complicación. Elige uno.</p><ul><li>Sufre un coste de camino: Haz un movimiento de sufrimiento (-2) o dos movimientos de sufrimiento (-1).</li><li>Afronta una complicación en el destino: Visualiza qué encuentras.</li></ul>"
         },
         "Set a Flag": {
-            "description": "<p><strong>Cuando identificas situaciones o temas que no quieres incluir, no quieres visualizar en detalle o deberían aproximarse con cautela</strong>, el contenido queda limitado.</p><p>Cuando encuentresWhen you encounter content flagged as something to approach mindfully, pause to consider or discuss its role in your story. When you come across flagged content that you would rather adjust or omit, @Compendium[foundry-ironsworn.starforgedmoves.aa6aea2e2f5ce064]{Cambiar tu destino}.</p>",
+            "description": "<p><strong>Cuando identificas situaciones o temas que no quieres incluir, no quieres visualizar en detalle o deberían aproximarse con cautela</strong> pausa para considerar o discutir su rol en tu historia. Cuando encuentres un contenido limitado que prefieras ajustar u omitir procede a @Compendium[foundry-ironsworn.starforgedmoves.aa6aea2e2f5ce064]{Cambiar tu destino}.</p>",
             "name": "Poner un límite",
             "trigger text": "Cuando identificas situaciones o temas que no quieres incluir, no quieres visualizar en detalle o deberían aproximarse con cautela..."
         },
@@ -415,7 +415,7 @@
             "weak": "<p>Marca progreso dos veces, pero te expones al peligro. Estás en una mala posición.</p>"
         },
         "Swear an Iron Vow": {
-            "description": "<p><strong>When you swear upon iron to complete a quest</strong>, write your vow and give it a rank. Then, roll +heart. If you swear this vow to a connection, add +1; if you share a bond, add +2.</p><p>Con un <strong>éxito total</strong> estás envalentonado y está claro lo que debes hacer a continuación. Ganas +2 de impulso.</p><p>Con un <strong>éxito parcial</strong> estás decidido, pero comienzas tu búsqueda con más preguntas que respuestas. Gana +1 de impulso e imagina lo que haces para encontrar un camino a seguir.</p><p>Con un <strong>fallo</strong> debes superar un obstáculo significativo antes de poder empezar con tu búsqueda. Visualiza qué obstáculo hay en tu camino.</p>",
+            "description": "<p><strong>Cuando juras sobre el hierro que cumplirás una búsqueda</strong> escribe el juramento y dale un rango. Luego tira +corazón. Si haces este juramento a una conexión suma +1. Si compartís un vínculo suma +22.</p><p>Con un <strong>éxito total</strong> estás envalentonado y está claro lo que debes hacer a continuación. Ganas +2 de impulso.</p><p>Con un <strong>éxito parcial</strong> estás decidido, pero comienzas tu búsqueda con más preguntas que respuestas. Gana +1 de impulso e imagina lo que haces para encontrar un camino a seguir.</p><p>Con un <strong>fallo</strong> debes superar un obstáculo significativo antes de poder empezar con tu búsqueda. Visualiza qué obstáculo hay en tu camino.</p>",
             "miss": "<p>Debes superar un obstáculo significativo antes de poder empezar con tu búsqueda. Visualiza qué obstáculo hay en tu camino.</p>",
             "name": "Jurar por el Hierro",
             "strong": "<p>Estás envalentonado y está claro lo que debes hacer a continuación. Ganas +2 de impulso.</p>",
